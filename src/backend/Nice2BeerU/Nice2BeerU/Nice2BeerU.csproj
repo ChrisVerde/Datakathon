@@ -156,13 +156,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Infra\ApiList.cs" />
-    <Compile Include="Models\brewery.cs" />
-    <Compile Include="Models\Beer.cs" />
-    <Compile Include="Models\Class1.cs" />
-    <Compile Include="Models\Category.cs" />
-    <Compile Include="Models\Infra\Json.cs" />
-    <Compile Include="Models\Style.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
