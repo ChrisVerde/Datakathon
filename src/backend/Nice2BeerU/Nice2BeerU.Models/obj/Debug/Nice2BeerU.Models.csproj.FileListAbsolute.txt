@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\obj\Debug\Nice2BeerU.Models.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\bin\Debug\Nice2BeerU.Models.dll.config
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\bin\Debug\Nice2BeerU.Models.dll
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\bin\Debug\Nice2BeerU.Models.pdb
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\bin\Debug\EntityFramework.dll
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\bin\Debug\EntityFramework.xml
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\obj\Debug\Nice2BeerU.Models.dll
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.Models\obj\Debug\Nice2BeerU.Models.pdb

@@ -1,0 +1,6 @@
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.ApiService\bin\Debug\Nice2BeerU.ApiService.dll
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.ApiService\bin\Debug\Nice2BeerU.ApiService.pdb
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.ApiService\obj\Debug\Nice2BeerU.ApiService.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.ApiService\obj\Debug\Nice2BeerU.ApiService.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.ApiService\obj\Debug\Nice2BeerU.ApiService.dll
+C:\Users\chris\Documents\GitHub\Datakathon\src\backend\Nice2BeerU\Nice2BeerU.ApiService\obj\Debug\Nice2BeerU.ApiService.pdb
